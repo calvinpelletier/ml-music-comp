@@ -1,0 +1,6 @@
+X: 1
+K:C
+M:4/4
+L:1/8
+%%MIDI gchord fzzzfzzz
+|"C"f2 d2 "G""C"d2 c1 d1 |"C"e2 e1 d1 c1 d1 e2 |"F"d1 c1 G1 A1 c4 |"C"B1 ^d1 e1 f1 d2 f2 d1 e1 |f1 a1 g1 a1 g2 e1 f1 |"G"g1 f1 e1 g1 f1 d1 B1 d1 |"G"c1 e1 d1 e1 c2 G1 F1 |"C"E1 F1 E1 D1 C2 G1 F1 |"F"F2 A1 B1 c2 c1 d1 |"C"e2 d1 e1 d2 d1 B1 |"G"d1 f1 e1 d1 c4 

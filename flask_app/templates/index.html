@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Lit</title>
+    <link rel="stylesheet" href="static/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/css/style.css">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+</head>
+
+<body>
+	<div class = "body_wrapper">
+	<!-- HEADER -->
+	<!-- <div class="container-fluid" id="index-header">
+		<div class="index-logo-title">
+            <img class="index-logo" src="static/img/logo_trans.png">
+			<h1 class="index-title">Lit</h1>
+		</div>
+        <div class="index-nav">
+            <a href="nowplaying"><button type="button" class="btn btn-lg index-button">Listen</button></a>
+            <a href="user"><button type="button" class="btn btn-lg index-button" href="guest.html">Join The Party</button></a>
+        </div>
+	</div> -->
+
+        <div class="container-fluid" id="index-body">
+            <div class="row" style="text-align: center">
+                <h2>Music Composition using Machine Learning</h2>
+                <hr>
+            </div>
+            <div class="row">
+                <audio id="song" controls autoplay loop>
+                    <source src="{{src}}" type="audio/wav">
+                    Your browser does not support HTML5 audio (dont use internet explorer).
+                </audio>
+            </div>
+            <div class="row">
+                <br>
+                <form action="/" method="POST">
+                    <h4>Rating</h4>
+                    <input type="radio" name="rating" value="5"> 5<br>
+                    <input type="radio" name="rating" value="4"> 4<br>
+                    <input type="radio" name="rating" value="3"> 3<br>
+                    <input type="radio" name="rating" value="2"> 2<br>
+                    <input type="radio" name="rating" value="1"> 1<br>
+                    <br>
+                    <h4>Human/Computer</h4>
+                    <p>(There are some actual songs mixed in. If you had to guess, do you think a computer or human wrote this song)</p>
+                    <p style="font-size: 12px">
+                        <input type="radio" name="hc" value="h"> Human<br>
+                        <input type="radio" name="hc" value="c"> Computer
+                    </p>
+                    <br>
+                    <input type="hidden" name="category" value="{{category}}">
+                    <input type="hidden" name="idx" value="{{idx}}">
+                    <input type="submit" value="Next Song">
+                </form>
+            </div>
+        </div>
+
+	</div>
+
+    <!-- <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.6/socket.io.min.js"></script> -->
+	<!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script> -->
+	<script src="static/js/bootstrap.min.js"></script>
+    <!-- <script src="static/js/script.js"></script> -->
+</body>

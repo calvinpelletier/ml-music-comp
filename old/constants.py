@@ -1,0 +1,5 @@
+MIN_PITCH = 24
+MAX_PITCH = 84
+RAW_DATA_FOLDER = 'raw_data'
+TRAINING_DATA_FOLDER = 'training_data'
+DATA_VERSION = '0'

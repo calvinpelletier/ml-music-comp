@@ -1,0 +1,7 @@
+Num data points: 450
+rev_norm: avg rating = 3.53846153846, std dev = 0.779419700183, percent_human = 0.333333333333, percent_computer = 0.666666666667
+actual: avg rating = 3.90789473684, std dev = 0.905794672605, percent_human = 0.605263157895, percent_computer = 0.394736842105
+normal: avg rating = 3.13333333333, std dev = 0.884433277428, percent_human = 0.293333333333, percent_computer = 0.706666666667
+rev: avg rating = 3.13414634146, std dev = 1.12360694371, percent_human = 0.40243902439, percent_computer = 0.59756097561
+char: avg rating = 3.45833333333, std dev = 1.09211186851, percent_human = 0.444444444444, percent_computer = 0.555555555556
+genetic: avg rating = 2.86567164179, std dev = 0.896019762376, percent_human = 0.253731343284, percent_computer = 0.746268656716

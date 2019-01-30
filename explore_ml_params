@@ -1,0 +1,3 @@
+python char_train.py --data_dir=raw_data/char --num_epochs=100 --save_dir=save_reg
+python char_train.py --data_dir=raw_data/char_normalized --num_epochs=100 --save_dir=save_normalized
+python char_train.py --data_dir=raw_data/char_reversed --num_epochs=100 --save_dir=save_rev

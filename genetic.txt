@@ -1,0 +1,639 @@
+0
+unidentified
+<__main__.Song instance at 0x7f619acfd050>
+rt: 0.375000
+en: 3.085938
+kd: 0.000000
+tt: 2.934783
+ce: 61.250000
+ra: 20.000000
+pd: 0.500000
+rh: 0.460938
+1
+unidentified
+<__main__.Song instance at 0x7f619acac128>
+rt: 0.075000
+en: 1.430903
+kd: 0.000000
+tt: 2.653846
+ce: 66.583333
+ra: 20.000000
+pd: 0.520833
+rh: 0.427083
+2
+unidentified
+<__main__.Song instance at 0x7f619ad11cf8>
+rt: 0.037500
+en: 1.680208
+kd: 0.015625
+tt: 2.277778
+ce: 65.062500
+ra: 17.000000
+pd: 0.531250
+rh: 0.421875
+3
+unidentified
+<__main__.Song instance at 0x7f619acf91b8>
+rt: 0.087500
+en: 1.877604
+kd: 0.031250
+tt: 2.658537
+ce: 74.343750
+ra: 19.000000
+pd: 0.578125
+rh: 0.429688
+4
+unidentified
+<__main__.Song instance at 0x7f619ad52ea8>
+rt: 0.312500
+en: 2.173611
+kd: 0.000000
+tt: 1.464286
+ce: 69.166667
+ra: 19.000000
+pd: 0.479167
+rh: 0.572917
+5
+unidentified
+<__main__.Song instance at 0x7f619ad52b90>
+rt: 0.175000
+en: 1.904948
+kd: 0.000000
+tt: 1.564103
+ce: 69.812500
+ra: 17.000000
+pd: 0.546875
+rh: 0.523438
+6
+unidentified
+<__main__.Song instance at 0x7f619acfdf80>
+rt: 0.462500
+en: 2.386979
+kd: 0.000000
+tt: 1.760000
+ce: 66.187500
+ra: 19.000000
+pd: 0.609375
+rh: 0.343750
+7
+unidentified
+<__main__.Song instance at 0x7f619aca6fc8>
+rt: 0.050000
+en: 1.745833
+kd: 0.015625
+tt: 3.634146
+ce: 80.671875
+ra: 17.000000
+pd: 0.500000
+rh: 0.437500
+8
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.037500
+en: 1.419271
+kd: 0.000000
+tt: 2.921053
+ce: 69.578125
+ra: 19.000000
+pd: 0.453125
+rh: 0.429688
+9
+unidentified
+<__main__.Song instance at 0x7f61adf9a680>
+rt: 0.125000
+en: 1.669972
+kd: 0.031250
+tt: 2.468750
+ce: 65.718750
+ra: 26.000000
+pd: 0.390625
+rh: 0.257812
+10
+unidentified
+<__main__.Song instance at 0x7f619ad18560>
+rt: 0.262500
+en: 2.385417
+kd: 0.015625
+tt: 2.733333
+ce: 64.828125
+ra: 17.000000
+pd: 0.578125
+rh: 0.437500
+11
+unidentified
+<__main__.Song instance at 0x7f619ad18f38>
+rt: 0.037500
+en: 1.573177
+kd: 0.000000
+tt: 2.400000
+ce: 69.359375
+ra: 17.000000
+pd: 0.406250
+rh: 0.335938
+12
+unidentified
+<__main__.Song instance at 0x7f619ad52ea8>
+rt: 0.075000
+en: 2.016927
+kd: 0.031250
+tt: 2.902439
+ce: 68.750000
+ra: 19.000000
+pd: 0.406250
+rh: 0.484375
+13
+unidentified
+<__main__.Song instance at 0x7f619acfdf80>
+rt: 0.125000
+en: 1.421007
+kd: 0.000000
+tt: 3.166667
+ce: 66.812500
+ra: 17.000000
+pd: 0.458333
+rh: 0.404167
+14
+unidentified
+<__main__.Song instance at 0x7f619ad52b90>
+rt: 0.050000
+en: 1.436124
+kd: 0.015625
+tt: 2.718750
+ce: 69.937500
+ra: 17.000000
+pd: 0.578125
+rh: 0.515625
+15
+unidentified
+<__main__.Song instance at 0x7f619ad18518>
+rt: 0.162500
+en: 1.420139
+kd: 0.000000
+tt: 2.280000
+ce: 69.520833
+ra: 19.000000
+pd: 0.604167
+rh: 0.335417
+16
+unidentified
+<__main__.Song instance at 0x7f619acfdf80>
+rt: 0.350000
+en: 0.882192
+kd: 0.000000
+tt: 3.416667
+ce: 66.583333
+ra: 19.000000
+pd: 0.437500
+rh: 0.395833
+17
+unidentified
+<__main__.Song instance at 0x7f619ad18f38>
+rt: 0.225000
+en: 1.289484
+kd: 0.000000
+tt: 3.166667
+ce: 67.979167
+ra: 17.000000
+pd: 0.520833
+rh: 0.504167
+18
+unidentified
+<__main__.Song instance at 0x7f61adac31b8>
+rt: 0.175000
+en: 1.831250
+kd: 0.000000
+tt: 2.923077
+ce: 66.875000
+ra: 19.000000
+pd: 0.416667
+rh: 0.377083
+19
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.175000
+en: 2.746094
+kd: 0.015625
+tt: 2.818182
+ce: 68.546875
+ra: 19.000000
+pd: 0.546875
+rh: 0.453125
+20
+unidentified
+<__main__.Song instance at 0x7f619acf98c0>
+rt: 0.387500
+en: 1.742708
+kd: 0.000000
+tt: 3.052632
+ce: 67.333333
+ra: 14.000000
+pd: 0.583333
+rh: 0.397917
+21
+unidentified
+<__main__.Song instance at 0x7f61ad93f200>
+rt: 0.375000
+en: 1.746181
+kd: 0.000000
+tt: 3.480000
+ce: 69.604167
+ra: 19.000000
+pd: 0.520833
+rh: 0.560417
+22
+unidentified
+<__main__.Song instance at 0x7f619acac878>
+rt: 0.200000
+en: 1.484375
+kd: 0.000000
+tt: 2.243902
+ce: 67.015625
+ra: 18.000000
+pd: 0.562500
+rh: 0.500000
+23
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.137500
+en: 1.894531
+kd: 0.000000
+tt: 1.800000
+ce: 69.515625
+ra: 15.000000
+pd: 0.531250
+rh: 0.375000
+24
+unidentified
+<__main__.Song instance at 0x7f619acfd050>
+rt: 0.287500
+en: 1.691220
+kd: 0.000000
+tt: 3.413793
+ce: 68.500000
+ra: 19.000000
+pd: 0.562500
+rh: 0.350000
+25
+unidentified
+<__main__.Song instance at 0x7f619ad52b90>
+rt: 0.362500
+en: 2.392361
+kd: 0.000000
+tt: 3.000000
+ce: 69.729167
+ra: 19.000000
+pd: 0.604167
+rh: 0.564583
+26
+unidentified
+<__main__.Song instance at 0x7f619ad110e0>
+rt: 0.150000
+en: 1.036458
+kd: 0.000000
+tt: 3.000000
+ce: 67.125000
+ra: 17.000000
+pd: 0.520833
+rh: 0.387500
+27
+unidentified
+<__main__.Song instance at 0x7f619ad18f38>
+rt: 0.062500
+en: 1.701562
+kd: 0.031250
+tt: 2.885714
+ce: 68.406250
+ra: 19.000000
+pd: 0.375000
+rh: 0.453125
+28
+unidentified
+<__main__.Song instance at 0x7f619acfd050>
+rt: 0.050000
+en: 1.314583
+kd: 0.000000
+tt: 1.536585
+ce: 67.265625
+ra: 19.000000
+pd: 0.515625
+rh: 0.492188
+29
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.062500
+en: 1.425781
+kd: 0.000000
+tt: 2.285714
+ce: 66.937500
+ra: 20.000000
+pd: 0.562500
+rh: 0.476562
+30
+unidentified
+<__main__.Song instance at 0x7f619acfdf80>
+rt: 0.325000
+en: 1.125000
+kd: 0.041667
+tt: 3.692308
+ce: 68.395833
+ra: 17.000000
+pd: 0.562500
+rh: 0.637500
+31
+unidentified
+<__main__.Song instance at 0x7f61add50440>
+rt: 0.250000
+en: 1.062500
+kd: 0.000000
+tt: 3.545455
+ce: 69.791667
+ra: 15.000000
+pd: 0.604167
+rh: 0.395833
+32
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.175000
+en: 1.436198
+kd: 0.000000
+tt: 1.525000
+ce: 65.968750
+ra: 16.000000
+pd: 0.546875
+rh: 0.429688
+33
+unidentified
+<__main__.Song instance at 0x7f619ad52ea8>
+rt: 0.150000
+en: 1.920139
+kd: 0.000000
+tt: 2.480000
+ce: 65.041667
+ra: 19.000000
+pd: 0.562500
+rh: 0.427083
+34
+unidentified
+<__main__.Song instance at 0x7f619ad52cb0>
+rt: 0.075000
+en: 1.833333
+kd: 0.031250
+tt: 2.976744
+ce: 64.109375
+ra: 19.000000
+pd: 0.578125
+rh: 0.406250
+35
+unidentified
+<__main__.Song instance at 0x7f619ad185f0>
+rt: 0.262500
+en: 1.869792
+kd: 0.015625
+tt: 2.928571
+ce: 69.484375
+ra: 17.000000
+pd: 0.468750
+rh: 0.429688
+36
+unidentified
+<__main__.Song instance at 0x7f619ad52b90>
+rt: 0.637500
+en: 1.725694
+kd: 0.000000
+tt: 2.740741
+ce: 66.500000
+ra: 17.000000
+pd: 0.479167
+rh: 0.627083
+37
+unidentified
+<__main__.Song instance at 0x7f619ad52cb0>
+rt: 0.337500
+en: 0.820486
+kd: 0.000000
+tt: 3.538462
+ce: 65.791667
+ra: 14.000000
+pd: 0.604167
+rh: 0.410417
+38
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.150000
+en: 2.223958
+kd: 0.000000
+tt: 1.500000
+ce: 65.281250
+ra: 17.000000
+pd: 0.453125
+rh: 0.414062
+39
+unidentified
+<__main__.Song instance at 0x7f619ad18560>
+rt: 0.412500
+en: 2.562500
+kd: 0.000000
+tt: 3.000000
+ce: 70.083333
+ra: 18.000000
+pd: 0.500000
+rh: 0.550000
+40
+unidentified
+<__main__.Song instance at 0x7f619ad18f38>
+rt: 0.025000
+en: 1.917039
+kd: 0.015625
+tt: 2.000000
+ce: 65.515625
+ra: 19.000000
+pd: 0.593750
+rh: 0.453125
+41
+unidentified
+<__main__.Song instance at 0x7f619aca6f38>
+rt: 0.175000
+en: 2.161458
+kd: 0.031250
+tt: 2.025000
+ce: 69.640625
+ra: 17.000000
+pd: 0.578125
+rh: 0.500000
+42
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.450000
+en: 1.505208
+kd: 0.000000
+tt: 3.242424
+ce: 65.479167
+ra: 14.000000
+pd: 0.500000
+rh: 0.452083
+43
+unidentified
+<__main__.Song instance at 0x7f619aca6f38>
+rt: 0.075000
+en: 2.123698
+kd: 0.000000
+tt: 1.604651
+ce: 67.765625
+ra: 19.000000
+pd: 0.437500
+rh: 0.398438
+44
+unidentified
+<__main__.Song instance at 0x7f619aca6fc8>
+rt: 0.225000
+en: 2.088889
+kd: 0.000000
+tt: 2.925926
+ce: 69.875000
+ra: 15.000000
+pd: 0.520833
+rh: 0.385417
+45
+unidentified
+<__main__.Song instance at 0x7f619ad18f38>
+rt: 0.200000
+en: 1.559028
+kd: 0.000000
+tt: 3.259259
+ce: 69.375000
+ra: 15.000000
+pd: 0.666667
+rh: 0.429167
+46
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.400000
+en: 1.722222
+kd: 0.000000
+tt: 3.387097
+ce: 74.666667
+ra: 14.000000
+pd: 0.562500
+rh: 0.406250
+47
+unidentified
+<__main__.Song instance at 0x7f619acfd050>
+rt: 0.162500
+en: 2.635417
+kd: 0.000000
+tt: 1.952381
+ce: 68.625000
+ra: 18.000000
+pd: 0.390625
+rh: 0.460938
+48
+unidentified
+<__main__.Song instance at 0x7f61adcf7cb0>
+rt: 0.512500
+en: 1.364741
+kd: 0.000000
+tt: 3.937500
+ce: 65.187500
+ra: 19.000000
+pd: 0.479167
+rh: 0.241667
+49
+unidentified
+<__main__.Song instance at 0x7f619ad52ea8>
+rt: 0.050000
+en: 2.172656
+kd: 0.000000
+tt: 1.581395
+ce: 69.281250
+ra: 19.000000
+pd: 0.546875
+rh: 0.437500
+50
+unidentified
+<__main__.Song instance at 0x7f61ad89c098>
+rt: 0.162500
+en: 1.384722
+kd: 0.000000
+tt: 3.434783
+ce: 68.166667
+ra: 30.000000
+pd: 0.541667
+rh: 0.295833
+51
+unidentified
+<__main__.Song instance at 0x7f61ada7d320>
+rt: 0.100000
+en: 1.472222
+kd: 0.000000
+tt: 2.695652
+ce: 70.104167
+ra: 17.000000
+pd: 0.541667
+rh: 0.418750
+52
+unidentified
+<__main__.Song instance at 0x7f61b13607e8>
+rt: 0.150000
+en: 1.479167
+kd: 0.000000
+tt: 3.500000
+ce: 68.270833
+ra: 15.000000
+pd: 0.479167
+rh: 0.537500
+53
+unidentified
+<__main__.Song instance at 0x7f619acf9098>
+rt: 0.187500
+en: 1.554861
+kd: 0.000000
+tt: 3.083333
+ce: 67.437500
+ra: 17.000000
+pd: 0.520833
+rh: 0.443750
+54
+unidentified
+<__main__.Song instance at 0x7f619ad52ea8>
+rt: 0.250000
+en: 2.074653
+kd: 0.000000
+tt: 4.035714
+ce: 66.687500
+ra: 19.000000
+pd: 0.562500
+rh: 0.468750
+55
+unidentified
+<__main__.Song instance at 0x7f619ad52cb0>
+rt: 0.087500
+en: 2.179427
+kd: 0.015625
+tt: 2.487805
+ce: 65.671875
+ra: 19.000000
+pd: 0.437500
+rh: 0.460938
+56
+unidentified
+<__main__.Song instance at 0x7f619ad18f38>
+rt: 0.312500
+en: 2.455729
+kd: 0.015625
+tt: 1.711111
+ce: 68.296875
+ra: 15.000000
+pd: 0.578125
+rh: 0.492188
+57
+unidentified
+<__main__.Song instance at 0x7f619ad52ea8>
+rt: 0.162500
+en: 1.847222
+kd: 0.000000
+tt: 4.148148
+ce: 67.000000
+ra: 19.000000
+pd: 0.500000
+rh: 0.508333
+58

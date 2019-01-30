@@ -1,0 +1,14 @@
+X: "bG/4
+P:B
+B/2G/2a|"G"dBG "D""f#"ABA|"Em"G2B "D7"A2c|"G"B2B "D7"B2A|"G"B2G G2:|
+
+
+X: 10
+M:6/8
+K:D
+"A"c2E "D"FDE|"D"DFA dFA|"D"FED F2G|"A7"A2d "G"B2G|
+B3 dcB|"D"AGF F2A|"C"ed4|"G"B3 d3|"C"e2e "G"d2d|"Em"e2f "Em"e2d|
+"A7"c2e cBA|"Bm"B2^c "a"d2B|"Em"B2A B"A"AB|"D"A2A A2d|"Em"B2G G2B|"D"dAF A3|"D"d3 f2g|
+"D"f2e d2f|"Em"g2d e2d|"A7"edc "D7"d3|"G"d2d Bcd|
+"Am"c2e a2"A7"e|"D7"f2f A2e|"D7"d2A FAc|"D7"d4-A2|
+"D7"def edc|"G"d2G GB"D7"A|"G"dBG "D7"g2=c|"G"B2G G2:|:B/2g/2||"D"^cAA ^cAF|A2f f2e|"D7"f2f fdf|"G

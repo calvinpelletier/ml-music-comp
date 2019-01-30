@@ -1,0 +1,14 @@
+#wget https://developer.nvidia.com/compute/cuda/8.0/Prod2/local_installers/cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64-deb
+#mv cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64-deb cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64.deb
+#sudo dpkg -i cuda-repo-ubuntu1604-8-0-local-ga2_8.0.61-1_amd64.deb
+#sudo apt-get update
+#sudo apt-get install -y cuda
+
+wget https://www.dropbox.com/s/bt6l2h873ekzdew/cudnn-7.5-linux-x64-v5.1.tgz?dl=1
+mv cudnn-7.5-linux-x64-v5.1.tgz\?dl\=1 cudnn-7.5-linux-x64-v5.1.tgz
+tar -zxf cudnn-7.5-linux-x64-v5.1.tgz && rm cudnn-7.5-linux-x64-v5.1.tgz
+sudo cp cuda/lib64/* /usr/local/cuda-7.5/lib64/
+sudo cp cuda/include/* /usr/local/cuda-7.5/include/
+echo "export LD_LIBRARY_PATH=\$LD_LIBRARY_PATH:/usr/local/cuda-7.5" >> .profile
+echo "export CUDA_HOME=/usr/local/cuda-7.5" >> .profile
+echo "export PATH=/usr/local/cuda-7.5/bin:\$PATH" >> .profile
